@@ -1,0 +1,4 @@
+{
+    "./.thought/n.txt.md": "## Goal\nSelect a line number where the excerpt reaches a natural pause point.\n\n## Reasoning\nLine 40, \u201cHow very wrong he was.\u201d closes the opening Dursley-focused sequence and provides a clear reflective beat before the narrative shifts outside to the cat, Dumbledore, and the wizarding-world revelations. This is a strong moment of rest and transition.\n\n## Output\nWrite only the integer line number to `./n.txt`.",
+    "./n.txt": "40"
+}

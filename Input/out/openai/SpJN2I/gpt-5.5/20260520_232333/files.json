@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "## Goal\nDetermine the line number `n` where the text prefix from line 1 through `n` forms a meaningful, complete unit without cutting off a sentence or thought.\n\n## Reasoning\nThe first three lines are title/chapter heading lines. The first actual narrative paragraph is line 4, beginning with \u201cMr. and Mrs. Dursley...\u201d and ending as a complete sentence. Including lines 1 through 4 gives the title, chapter heading, section heading, and a complete opening narrative paragraph.\n\n## Decision\nUse `n = 4`.",
+    "./output.txt": "4"
+}

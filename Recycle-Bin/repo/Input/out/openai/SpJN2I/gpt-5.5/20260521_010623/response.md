@@ -1,0 +1,13 @@
+<file path="./.thought/out/part-3/n.txt.md">
+## Goal
+Choose a line number `n` where the first `n` lines end at a natural pause point in the narrative.
+
+## Reasoning
+Line 40, "How very wrong he was.", concludes the opening daytime sequence focused on Mr. Dursley's strange observations and his attempt to reassure himself that the Potters' affairs cannot affect his family. Immediately afterward, the narrative shifts to the cat outside at night and the arrival of Dumbledore, making this a clear transition in scene, tone, and focus.
+
+## Decision
+Use line 40 as the pause point.
+</file>
+
+<file path="./out/part-3/n.txt">
+40</file>

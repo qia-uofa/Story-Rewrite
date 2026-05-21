@@ -1,0 +1,13 @@
+<file path="./.thought/output.txt.md">
+## Goal
+Select a line number where the provided excerpt reaches a natural pause point.
+
+## Reasoning
+The excerpt begins near the end of Chapter One and then transitions into Chapter Two. The strongest natural pause occurs at the end of Chapter One, after the final reflective paragraph about Harry sleeping on the doorstep and people toasting "the boy who lived." The next line begins "CHAPTER TWO," marking a clear scene and time shift.
+
+## Decision
+Line 30 is the final line before the Chapter Two heading, so it is the best natural pause point.
+</file>
+
+<file path="./output.txt">
+30</file>

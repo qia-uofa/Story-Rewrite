@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "## Goal\nDetermine the largest line number `n` such that the prefix of the provided novel text ends at a coherent, complete narrative boundary.\n\n## Approach\nI counted the lines from the start of the input text through the final displayed line. The excerpt ends on a complete sentence and coherent paragraph about Harry receiving a lemon ice pop at the zoo, with no mid-sentence cutoff.\n\n## Result\nThe largest valid `n` is 178.",
+    "./output.txt": "178"
+}

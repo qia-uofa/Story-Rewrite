@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "## Goal\nDetermine the largest line count `n` such that the text from line 1 through line `n` forms a meaningful and complete narrative paragraph.\n\n## Reasoning\nThe first line is a complete narrative paragraph: it introduces Mr. Dursley noticing unusual events and closes with a complete sentence about his focus on drills that day. The next line begins a new paragraph with a transition (\"But on the edge of town...\"), so including it would extend beyond a single complete paragraph.\n\n## Decision\nThe largest valid `n` is 1.",
+    "./output.txt": "1"
+}

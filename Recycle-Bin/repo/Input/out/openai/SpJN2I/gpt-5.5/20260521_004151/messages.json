@@ -1,0 +1,42 @@
+[
+    {
+        "role": "system",
+        "content": "You are a File Repository Assistant specializing in updating, transforming, and managing files. Your role is to help users organize, convert, restructure, and maintain their file repositories efficiently and accurately."
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/input/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"<masked/path/to/input/repo>/.thought/n.txt.md\">\n## Goal\nSelect a line number where the excerpt reaches a natural pause point.\n\n## Reasoning\nLine 7 concludes the exchange about Harry's flying motorcycle dream and the Dursleys' dislike of anything abnormal. Line 8 shifts to the sunny zoo setting and a new moment in the narrative, so the best pause point is immediately before that transition.\n\n## Output\nWrite only the integer line number to `./n.txt`.\n</file>\n<file path=\"<masked/path/to/input/repo>/context.txt\">\nIt was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn't bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn't blond.\n</file>\n<file path=\"<masked/path/to/input/repo>/n.txt\">\n7\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/output/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "echo format_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"./format.md\">\n## Output Format Rules\n\n1. **Every output must be a file**, enclosed in `<file path=\"...\">...</file>` tags.\n   - No raw text, explanations, or code outside of file tags.\n   - All paths must start with `./`\n\n2. **Before writing any file, think out loud first** by writing a corresponding thought file:\n   - Thought file path: `./.thought/<original/path/file.ext.md>`\n   - Example: before `./src/app.py`, write `./.thought/src/app.py.md`\n   - The thought file should contain your reasoning: what the file needs to do, design decisions, potential pitfalls, and your approach.\n\n3. **File ordering**: thought file always comes immediately before its corresponding output file.\n\n## Example Output Structure\n\n<file path=\"./.thought/src/utils.ts.md\">\n## Goal\nCreate a utility module for string manipulation.\n\n## Design Decisions\n- Export named functions, not a class, for tree-shaking friendliness\n- Use TypeScript generics for the pad function to stay flexible\n\n## Potential Pitfalls\n- Edge case: empty string input should return empty string, not throw\n</file>\n\n<file path=\"./src/utils.ts\">\nexport function capitalize(s: string): string {\n  if (!s) return s;\n  return s.charAt(0).toUpperCase() + s.slice(1);\n}\n</file>\n\n## Strict Rules\n- Never output anything outside `<file ...>` tags\n- Every non-thought file must have a preceding thought file\n- Thought files are Markdown; content files use the appropriate language for their extension\n- Paths are relative, always starting with `./`\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "echo build_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "\n\n\nYou are given a snippet of text from a novel. Your task is to find a line number `n` and write it to `./n.txt`.\n\nRules:\n- Split the text into lines (by newline character)\n- Find `n` such that lines 1 through n represent a natural pause point in the narrative\n- A natural pause point is where:\n  - The story reaches a moment of rest, transition, or shift in scene/tone/focus\n  - The reader could naturally stop and reflect\n- Write only the integer `n` to `./n.txt`, nothing else"
+    },
+    {
+        "role": "user",
+        "content": "start"
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "## Goal\nWrite the line number where the provided novel excerpt reaches a natural pause point.\n\n## Reasoning\nThe strongest natural pause occurs at the end of Chapter One, just before the transition into Chapter Two. By counting each newline-separated line from the start of `context.txt`, the final paragraph of Chapter One ends on line 111. Line 112 begins `CHAPTER TWO`, so stopping at line 111 gives a complete scene and chapter conclusion.\n\n## Output\nThe output file should contain only the integer line number.",
+    "./output.txt": "111"
+}

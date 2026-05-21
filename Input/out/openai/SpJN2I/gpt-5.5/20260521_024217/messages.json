@@ -1,0 +1,42 @@
+[
+    {
+        "role": "system",
+        "content": "You are a File Repository Assistant specializing in updating, transforming, and managing files. Your role is to help users organize, convert, restructure, and maintain their file repositories efficiently and accurately."
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/input/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"<masked/path/to/input/repo>/window.txt\">\n\"Am I?\" said Harry, feeling dazed.\n\"Goodness, didn't you know, I'd have found out everything I could if it was me,\" said Hermione. \"Do either of you know what house you'll be in? I've been asking around, and I hope I'm in Gryffindor, it sounds by far the best; I hear Dumbledore himself was in it, but I suppose Ravenclaw wouldn't be too bad.... Anyway, we'd better go and look for Neville's toad. You two had better change, you know, I expect we'll be there soon.\"\nAnd she left, taking the toadless boy with her.\n\"Whatever house I'm in, I hope she's not in it,\" said Ron. He threw his wand back into his trunk. \"Stupid spell -- George gave it to me, bet he knew it was a dud.\"\n\"What house are your brothers in?\" asked Harry.\n\"Gryffindor,\" said Ron. Gloom seemed to be settling on him again. \"Mom and Dad were in it, too. I don't know what they'll say if I'm not. I don't suppose Ravenclaw would be too bad, but imagine if they put me in Slytherin.\"\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/output/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "echo format_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"./format.md\">\n## Output Format Rules\n\n1. **Every output must be a file**, enclosed in `<file path=\"...\">...</file>` tags.\n   - No raw text, explanations, or code outside of file tags.\n   - All paths must start with `./`\n\n2. **Before writing any file, think out loud first** by writing a corresponding thought file:\n   - Thought file path: `./.thought/<original/path/file.ext.md>`\n   - Example: before `./src/app.py`, write `./.thought/src/app.py.md`\n   - The thought file should contain your reasoning: what the file needs to do, design decisions, potential pitfalls, and your approach.\n\n3. **File ordering**: thought file always comes immediately before its corresponding output file.\n\n## Example Output Structure\n\n<file path=\"./.thought/src/utils.ts.md\">\n## Goal\nCreate a utility module for string manipulation.\n\n## Design Decisions\n- Export named functions, not a class, for tree-shaking friendliness\n- Use TypeScript generics for the pad function to stay flexible\n\n## Potential Pitfalls\n- Edge case: empty string input should return empty string, not throw\n</file>\n\n<file path=\"./src/utils.ts\">\nexport function capitalize(s: string): string {\n  if (!s) return s;\n  return s.charAt(0).toUpperCase() + s.slice(1);\n}\n</file>\n\n## Strict Rules\n- Never output anything outside `<file ...>` tags\n- Every non-thought file must have a preceding thought file\n- Thought files are Markdown; content files use the appropriate language for their extension\n- Paths are relative, always starting with `./`\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "echo build_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "\n\n\n\nYou are given a snippet of text from a novel. Your task is to sample candidate pause points, score them, and write the scores to `./out/part-7/scores.json`.\n\nA natural pause point is a line where the reader could naturally stop and reflect \u2014 a moment of rest, transition, or shift in scene, tone, or focus.\n\nScoring system (0 to 100):\n- p_close(i): how much does line i feel like the end of a unit?\n    100 \u2014 scene ends, emotional beat resolves, character exits, chapter-like finality\n     75 \u2014 strong closing tone, trailing silence, a held breath\n     50 \u2014 soft stop, paragraph ends but narrative thread continues\n     25 \u2014 mid-action, mid-dialogue, mid-description\n      0 \u2014 sentence is incomplete or cuts off abruptly\n- p_open(i+1): how much does line i+1 feel like the start of a unit?\n    100 \u2014 new scene, new character, time jump, location change, fresh narrative thread\n     75 \u2014 tonal shift, new paragraph with new focus\n     50 \u2014 continuation with slight reorientation\n     25 \u2014 direct continuation of prior sentence or action\n      0 \u2014 mid-sentence or dependent clause\n- score(i) = p_close(i) \u00d7 p_open(i+1) / 100\n\nStrategy \u2014 follow these steps in order:\n\nStep 1 \u2014 Sample candidates:\n  Read through the text and identify exactly 20 candidate pause points spread across the text.\n\nStep 2 \u2014 Score each candidate:\n  For each candidate i, compute p_close(i) and p_open(i+1) using the scoring system above, then compute score(i).\n\nStep 3 \u2014 Write output:\n  Write the scores as a JSON file to ./out/part-7/scores.json in this exact format:\n    {\n        \"<line_index>\": <score>,\n        \"<line_index>\": <score>,\n        ...\n    }\n  where keys are line indices as strings and values are scores from 0 to 100.\n"
+    },
+    {
+        "role": "user",
+        "content": "start"
+    }
+]

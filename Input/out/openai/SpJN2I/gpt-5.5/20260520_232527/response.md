@@ -1,0 +1,13 @@
+<file path="./.thought/output.txt.md">
+## Goal
+Determine the largest line number `n` such that lines 1 through `n` form one meaningful, complete narrative paragraph.
+
+## Reasoning
+The provided text is split so that each narrative paragraph appears on its own line. Line 1 is a complete, self-contained paragraph introducing the Dursley family and ending with a complete sentence. Line 2 begins a new paragraph, so including it would make the prefix contain more than one paragraph rather than one complete narrative paragraph.
+
+## Decision
+Use `n = 1`.
+</file>
+<file path="./output.txt">
+1
+</file>

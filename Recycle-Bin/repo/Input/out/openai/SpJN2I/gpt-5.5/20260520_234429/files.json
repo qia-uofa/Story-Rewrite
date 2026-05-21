@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "Line 1 starts the snippet and forms a complete, coherent narrative paragraph ending with a full sentence about Mr. Dursley going to buy a bun. Line 2 begins a new paragraph (\u201cHe'd forgotten...\u201d), so including it would make the prefix more than a single narrative paragraph. Therefore the largest valid n is 1.",
+    "./output.txt": "1"
+}

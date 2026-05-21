@@ -1,0 +1,4 @@
+{
+    "./.thought/output.txt.md": "## Goal\nFind the largest line number `n` such that the prefix from line 1 through line `n` forms a meaningful, complete narrative paragraph and does not cut off a sentence or thought.\n\n## Reasoning\nThe text begins with the book title, chapter label, and chapter title on lines 1\u20133. Line 4 is the first actual narrative paragraph, and it is self-contained: it introduces the Dursleys and ends with a complete sentence. Including line 5 would start a new paragraph, so the prefix would no longer be a single narrative paragraph unit.\n\n## Decision\nUse `n = 4`.",
+    "./output.txt": "4"
+}
