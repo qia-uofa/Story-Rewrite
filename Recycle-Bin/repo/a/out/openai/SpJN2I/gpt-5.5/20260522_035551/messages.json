@@ -1,0 +1,42 @@
+[
+    {
+        "role": "system",
+        "content": "You are a File Repository Assistant specializing in updating, transforming, and managing files. Your role is to help users organize, convert, restructure, and maintain their file repositories efficiently and accurately."
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/input/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "print <masked/path/to/output/repo>"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"<masked/path/to/output/repo>/.thought/a.txt.md\">\n## Goal\nCreate `a.txt` in the output repository to match the input repository.\n\n## Approach\nThe input repository contains a single file, `a.txt`, with the content `haha`. Since the output repository is empty, this file needs to be generated with the same content.\n\n## Potential Pitfalls\n- Preserve the exact text content.\n- Do not add extra whitespace or additional lines beyond the intended file content.\n</file>\n<file path=\"<masked/path/to/output/repo>/a.txt\">\nhaha\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "echo format_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "<file path=\"./format.md\">\n## Output Format Rules\n\n1. **Every output must be a file**, enclosed in `<file path=\"...\">...</file>` tags.\n   - No raw text, explanations, or code outside of file tags.\n   - All paths must start with `./`\n\n2. **Before writing any file, think out loud first** by writing a corresponding thought file:\n   - Thought file path: `./.thought/<original/path/file.ext.md>`\n   - Example: before `./src/app.py`, write `./.thought/src/app.py.md`\n   - The thought file should contain your reasoning: what the file needs to do, design decisions, potential pitfalls, and your approach.\n\n3. **File ordering**: thought file always comes immediately before its corresponding output file.\n\n## Example Output Structure\n\n<file path=\"./.thought/src/utils.ts.md\">\n## Goal\nCreate a utility module for string manipulation.\n\n## Design Decisions\n- Export named functions, not a class, for tree-shaking friendliness\n- Use TypeScript generics for the pad function to stay flexible\n\n## Potential Pitfalls\n- Edge case: empty string input should return empty string, not throw\n</file>\n\n<file path=\"./src/utils.ts\">\nexport function capitalize(s: string): string {\n  if (!s) return s;\n  return s.charAt(0).toUpperCase() + s.slice(1);\n}\n</file>\n\n## Strict Rules\n- Never output anything outside `<file ...>` tags\n- Every non-thought file must have a preceding thought file\n- Thought files are Markdown; content files use the appropriate language for their extension\n- Paths are relative, always starting with `./`\n</file>"
+    },
+    {
+        "role": "user",
+        "content": "echo build_prompt"
+    },
+    {
+        "role": "assistant",
+        "content": "\n\n\n\nYour task is to transform the repository a to b by generating files.\n"
+    },
+    {
+        "role": "user",
+        "content": "start"
+    }
+]

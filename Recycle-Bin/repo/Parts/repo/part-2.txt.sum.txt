@@ -1,0 +1,1 @@
+Unable to summarize `./Parts/repo/part-2.txt` because its contents were not provided or accessible.

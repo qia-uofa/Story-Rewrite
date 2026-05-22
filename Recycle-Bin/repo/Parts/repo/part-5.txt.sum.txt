@@ -1,0 +1,1 @@
+Unable to summarize `./Parts/repo/part-5.txt` because its content was not provided and no direct file access is available.

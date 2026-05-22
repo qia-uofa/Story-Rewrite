@@ -1,0 +1,4 @@
+{
+    "./.thought/a.txt.md": "## Goal\nCreate `a.txt` in the output repository.\n\n## Approach\nThe target repository requires a single text file named `a.txt` containing exactly `haha`.\n\n## Potential Pitfalls\n- Do not add extra text.\n- Preserve the exact lowercase content.",
+    "./a.txt": "haha"
+}

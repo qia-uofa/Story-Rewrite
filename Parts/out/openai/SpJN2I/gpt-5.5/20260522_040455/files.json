@@ -1,0 +1,4 @@
+{
+    "./.thought/format.md.sum.txt.md": "## Goal\nSummarize the contents of `format.md` into a concise text file.\n\n## Design Decisions\n- Capture the core requirements: all outputs must be files, thought files must precede content files, path rules, and ordering constraints.\n- Keep the summary short and clear.\n- Use plain text because the target file extension is `.txt`.\n\n## Potential Pitfalls\n- Avoid adding content outside file tags.\n- Ensure the thought file immediately precedes the requested output file.\n- Use paths starting with `./`.",
+    "./format.md.sum.txt": "format.md defines strict output formatting rules. Every response must consist only of file blocks using <file path=\"...\">..."
+}

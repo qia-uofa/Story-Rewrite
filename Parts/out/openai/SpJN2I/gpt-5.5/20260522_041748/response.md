@@ -1,0 +1,18 @@
+<file path="./.thought/part-2.txt.sum.txt.md">
+## Goal
+Create a concise summary of `part-2.txt`, which contains Chapter Two, "The Vanishing Glass."
+
+## Approach
+Summarize the chapter's key events: Harry's miserable life with the Dursleys, Dudley's birthday, the unexpected trip to the zoo, Harry's interaction with the boa constrictor, the disappearing glass incident, and Harry's punishment afterward.
+
+## Potential Pitfalls
+Avoid copying extended phrasing from the source text. Keep the summary original, clear, and focused on the main plot points.
+</file>
+
+<file path="./part-2.txt.sum.txt">
+Nearly ten years after being left with the Dursleys, Harry Potter lives neglected in a cupboard under the stairs while his spoiled cousin Dudley is showered with attention and gifts. On Dudley's birthday, the family is forced to take Harry along to the zoo when their usual babysitter is unavailable.
+
+At the zoo, Harry briefly enjoys himself, but things turn strange in the reptile house when he realizes he can communicate with a boa constrictor. After Dudley shoves Harry aside to see the snake, the glass front of the enclosure mysteriously vanishes, allowing the snake to escape. The snake seems to thank Harry before leaving.
+
+The incident frightens the Dursleys and embarrasses them. Once they return home, Uncle Vernon furiously punishes Harry by locking him in his cupboard without meals. Harry reflects on his lonely life, his vague memories of a green flash connected to his parents' deaths, and the odd strangers who sometimes seem to recognize him.
+</file>

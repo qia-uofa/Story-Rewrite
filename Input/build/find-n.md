@@ -2,9 +2,8 @@
 TARGET=Input
 ```
 ```sourceignore
-out
-.thought
-story.txt
+*
+!window.txt
 ```
 ```targetignore
 *
