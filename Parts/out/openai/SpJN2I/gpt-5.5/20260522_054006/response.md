@@ -1,0 +1,30 @@
+<file path="./.thought/sop-3.txt.sum.txt.md">
+## Goal
+Summarize the provided `part-3.txt`, which contains the events of Chapter Three and the beginning of Chapter Four.
+
+## Approach
+Create a concise summary covering:
+- Harry receiving mysterious letters.
+- The Dursleys' escalating attempts to prevent him from reading them.
+- The family fleeing to avoid the letters.
+- Hagrid arriving at the hut on Harry's birthday.
+- Harry learning he is a wizard and receiving his Hogwarts letter.
+- Hagrid revealing the truth about Harry's parents and Voldemort.
+- Hagrid defending Harry and preparing to take him to buy school supplies.
+
+## Potential Pitfalls
+- Avoid reproducing large portions of the original text.
+- Keep the summary clear and focused on the main plot developments.
+</file>
+
+<file path="./sop-3.txt.sum.txt">
+Harry spends the summer after the zoo incident being punished and avoiding Dudley and his friends. As the new school year approaches, the Dursleys prepare Dudley for Smeltings while planning to send Harry to Stonewall High in dyed old clothes.
+
+One morning, Harry receives his first-ever letter, addressed specifically to his cupboard under the stairs. Uncle Vernon and Aunt Petunia react with fear and destroy it before Harry can read it. More letters arrive, each correctly tracking Harry's location, even after the Dursleys move him into Dudley's spare bedroom. Uncle Vernon becomes increasingly desperate, blocking the mail slot, sealing doors and windows, and eventually fleeing with the family to escape the letters.
+
+The letters continue to follow them, first to a hotel and then to a remote hut on a rock in the sea. At midnight on Harry's eleventh birthday, a giant man named Rubeus Hagrid breaks into the hut and gives Harry a birthday cake and his Hogwarts acceptance letter. Hagrid reveals that Harry is a wizard and has been accepted at Hogwarts School of Witchcraft and Wizardry.
+
+Harry learns that the Dursleys have hidden the truth from him: his parents were not killed in a car crash, but murdered by the dark wizard Voldemort. Voldemort also tried to kill Harry as a baby, but the curse failed, leaving Harry with his lightning-shaped scar and making him famous in the wizarding world. Hagrid explains that Voldemort vanished after attacking Harry.
+
+Uncle Vernon tries to stop Harry from going to Hogwarts, but Hagrid insists he cannot prevent it. When Vernon insults Albus Dumbledore, Hagrid loses his temper and gives Dudley a pig's tail with a burst of magic. Hagrid then tells Harry they must go to town the next day to buy his school supplies.
+</file>

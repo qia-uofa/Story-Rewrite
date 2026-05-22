@@ -1,0 +1,144 @@
+<file path="./.thought/repart-5.txt.md">
+## Goal
+Rewrite the fifth story part from the supplied rewritten summary, replacing the original school-train setup with the hidden superhuman defense-world version centered on Hughie Campbell.
+
+## Approach
+- Keep the broad chapter function: final month at the hostile household, preparation for school, journey to King's Cross, discovery of the hidden platform, and departure.
+- Use the ReSoP and lore details: Edgar-Stillwell household, A-Train's tail incident, Guardians Academy supplies, Hedwig as an owl-shaped courier drone, Platform Nine and Three-Quarters as a phase-screen barrier, Monique and Mother’s Milk’s family, TNT Twins, and the Guardians Express.
+- Avoid reproducing the source prose too closely; use fresh wording and world-specific imagery while preserving the recognizable narrative beats requested by the reconstruction task.
+
+## Potential Pitfalls
+- The original source text is very recognizable, so the rewrite should diverge in phrasing and setting texture.
+- The part must end with Hughie beginning his journey, not continue into the next train-compartment material covered by later ReSoP files.
+- Maintain continuity with prior parts: Butcher has already bought supplies, revealed the truth, and returned Hughie to the Edgar-Stillwell household until September first.
+</file>
+
+<file path="./repart-5.txt">
+CHAPTER SIX
+THE JOURNEY FROM PLATFORM NINE AND THREE-QUARTERS
+Hughie Campbell's last month at number four, Privet Drive was quieter than any month he could remember.
+Quiet did not mean kind; it only meant the Edgar-Stillwell household had found a new way to make him vanish.
+A-Train had returned from the hospital stiff, pale, and furious after Butcher's mutagenic prank.
+Stan Edgar called it "a corrective matter" and "an unacceptable breach of family privacy."
+Madelyn Stillwell simply refused to look at Hughie, which was almost pleasant after years of sharp, frightened glances.
+No one locked him in the cupboard now, and no one ordered him to scrub pans or fetch A-Train's training shoes.
+They treated any room containing Hughie as if it had become a classified exclusion zone.
+Being invisible was better than being shouted at, but not nearly as good as being wanted.
+Hughie spent most days in A-Train's second bedroom with his trunk open and his new life spread across the bed.
+His academy manuals smelled of ink, polymer, and faint electricity.
+Fundamentals of Rescue Entry hummed when he opened it.
+A Young Operative's Guide to Alien Recognition rearranged its diagrams whenever he stared too long.
+The history text made Grace Mallory's portrait turn one stern eye toward him whenever he skipped ahead.
+On the desk, the bonded gauntlet from the Armory rested in its padded case.
+Sometimes the Viltrumite-reactive crystal glowed like trapped lightning before dawn.
+Butcher had told him not to wear it without supervision, so Hughie only opened the case and wondered.
+"You'll learn," Butcher had said at Paddington, pressing the black-and-silver ticket into his hand.
+Hughie repeated those words whenever his scar prickled and Privet Drive felt too small to breathe in.
+Hedwig helped more than any book.
+She was not a real owl, though she acted offended whenever Hughie remembered that.
+The snowy courier drone slept folded on the wardrobe and slipped through the open window at night.
+She returned with encrypted weather slips, polished screws, and once a dead mouse delivered with ceremonial pride.
+Hughie thanked her, because no one had ever brought him presents before, not even odd mechanical ones.
+Every night he crossed another square off a calendar drawn on the back of an old corporate leaflet.
+September first waited at the end of the paper like a door.
+On the last evening of August, Hughie went downstairs while Stan, Madelyn, and A-Train watched a defense-market panel.
+The presenters argued about orbital contracts, and Stan's face wore the sharp calm he saved for profitable disasters.
+Hughie cleared his throat.
+A-Train flinched, spilled orange drink over the sofa, and glared as if Hughie had attacked him.
+"I need to be at King's Cross tomorrow," Hughie said.
+Stan did not look away from the television.
+"For the Guardians Academy," Hughie added.
+Madelyn's mouth tightened around her wineglass.
+"We know what fantasy you have chosen to pursue," Stan said.
+"It's on the ticket."
+Hughie took out the stiff card, and its lettering shifted under his thumb: GUARDIANS EXPRESS, PLATFORM NINE AND THREE-QUARTERS, ELEVEN HUNDRED.
+Stan finally turned.
+"Nine and three-quarters," he said, with the dry patience he used on employees he intended to destroy.
+"There is no such platform."
+"Butcher said there would be."
+"Mr. Butcher also vandalized my son with unlicensed mutagenic technology."
+A-Train made a wounded noise and pulled a cushion over his lap.
+Stan said, "We are going to London in the morning for hospital documentation. We will deposit you at the station."
+"You'll take me?"
+"We will deposit you," Stan repeated. "After that, your academy's absurd logistics are no concern of mine."
+It was the nearest thing to permission Hughie had ever received, and he carried it upstairs like treasure.
+He barely slept.
+Before sunrise, he dressed in jeans and a jumper rather than arrive in public wearing armored academy layers.
+He checked the trunk three times: uniforms, field layers, manuals, med-kit, sensor kit, tablet, styluses, notebooks, combat weights.
+Hedwig clicked inside her travel cage, her blue glass eyes bright in the dim room.
+The gauntlet case went on top, wrapped in two shirts and the Armory's warning card.
+At seven, Stan opened the door without waiting for an answer.
+"If that machine sheds parts in my car, I will bill the relevant agency."
+"She's not shedding," Hughie said.
+Hedwig rotated her head all the way around and gave Stan a soft, judgmental hoot.
+The drive to London was long, grey, and silent.
+Madelyn checked messages in the front seat and pretended Hughie had not once been her sister's baby.
+A-Train took up most of the back seat, moving carefully and muttering about ruined trials.
+Hughie kept one hand on Hedwig's cage and the other around the ticket in his pocket.
+The card felt warm, as if it knew where it was going even if he did not.
+King's Cross was full of rushing people, luggage wheels, coffee steam, announcements, and ordinary impatience.
+Stan loaded Hughie's trunk onto a trolley with the briskness of a man completing an unpleasant transaction.
+They stopped between platforms nine and ten.
+A large number nine hung over one entrance, a large number ten over the other, and between them stood plain brick.
+No sign flashed; no hidden gate opened; no armored conductor called Hughie Campbell's name.
+Stan's smile appeared slowly.
+"There," he said. "Nine. Ten. Your imaginary fraction should be somewhere in the masonry."
+Madelyn looked away, but she did not contradict him.
+"Have a productive delusion," Stan said.
+A-Train laughed once, nervous and mean.
+They left Hughie with his trunk, Hedwig's cage, and the terrible feeling that the station had begun to stare.
+He watched them disappear through the crowd toward the car park.
+For a moment he wanted Butcher to stride in, kick over a sign, and shout the answer at him.
+Butcher did not come.
+Hughie asked a guard about Platform Nine and Three-Quarters as politely as panic allowed.
+The guard stared, decided he was joking, and said platforms had whole numbers in London.
+When Hughie asked about an eleven o'clock school train, the guard said there was no such departure and walked away.
+The clock above the concourse said ten-forty-nine.
+Hughie's palms went slick on the trolley handle.
+The hidden world had found his cupboard, his bedroom, a hotel, and a hut in the sea, but he could not find one platform.
+He considered tapping the brick with the ticket.
+He considered opening the gauntlet case, which proved he absolutely should not.
+Then a warm voice behind him said, "--packed with baseline commuters today, so keep the young ones close."
+Hughie turned.
+A broad, kind-faced woman was guiding a younger boy while older students clustered around two scuffed academy trolleys.
+Their trunks bore Guardian Red stickers, old scorch marks, and family labels written in several hands.
+Two older twins argued about which of them had once convinced a scanner that he was an alien prince.
+A small boy bounced beside them, asking if first-years were allowed to see the engine core.
+A tall student with a polished academy badge tried to look too dignified to know any of them.
+Hughie understood before he could name it: this was a family that belonged to the place he was trying to reach.
+The kind-faced woman glanced back and caught him staring.
+"You look lost, sweetheart," she said.
+"I'm looking for Platform Nine and Three-Quarters," Hughie managed.
+The younger boy beside her brightened. "You're first year too?"
+"Yes."
+"I'm Marvin, but everybody says Mother's Milk. Well, most people. Some try Marvin when they're in trouble."
+"Hughie," Hughie said.
+The twins stopped arguing.
+The badge-wearing student raised his eyebrows.
+The little boy gasped, "The Hughie?"
+Hughie wished at once that he had said another name.
+The woman placed a steady hand on the little boy's shoulder. "Manners, Supersonic."
+"Sorry," Supersonic whispered, though he kept looking at Hughie's lightning scar.
+"I'm Monique," the woman said, as if half her family circle had not just gone silent. "First trip through?"
+Hughie nodded.
+"Then walk straight at the barrier between nine and ten. Don't slow down, and don't second-guess it."
+"At the wall?"
+"Through the phase screen," Monique said. "It only looks like a wall because the GDA has a sense of humor it should be ashamed of."
+Mother's Milk grinned, though his hands were tight on his trolley.
+"You can go before us," he said. "If it goes wrong, I know to blame my mum."
+"Marvin."
+"Kidding."
+Monique smiled at Hughie. "Steady pace. Trust your ticket."
+Hughie turned his trolley toward the barrier.
+Ordinary travelers crossed his path: a man with coffee, a girl with a dinosaur suitcase, tourists dragging maps and backpacks.
+The brick waited, solid and indifferent.
+Hughie started walking, and the ticket warmed in his pocket.
+He walked faster; the trolley rattled; Hedwig gave one offended hoot.
+The barrier rushed toward him, and at the last second he shut his eyes, certain Stan Edgar had been right.
+There was no crash.
+Cool station draft became warm steam and ionized ozone, and the hard floor changed to old platform stone beneath his shoes.
+When Hughie opened his eyes, the black-and-red Guardians Express waited under silver letters while drones and companion animals filled the platform.
+He pushed through the crowd, found a compartment near the rear, and the TNT Twins cheerfully helped him heave his trunk aboard.
+They noticed the lightning scar, traded one awed look, and said his name softly enough that it still seemed to echo.
+As the whistle blew, Monique's family waved from the platform, and Hughie Campbell began his journey to the Guardians Academy.
+</file>

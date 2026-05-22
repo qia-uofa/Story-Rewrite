@@ -1,0 +1,398 @@
+<file path="./.thought/repart-1.txt.md">
+## Goal
+Reconstruct the first story part from `resop-1.txt`, using the wider lore as continuity context.
+
+## Approach
+- Replace the original wizard-world premise with the hidden superhuman defense world.
+- Center the chapter on the Edgar-Stillwell household, strange public signs, Mallory and Maeve’s midnight conversation, and Butcher delivering baby Hughie.
+- Preserve the broad chapter function: ordinary household, ominous daytime anomalies, night-time handoff, and the famous surviving child.
+
+## Potential Pitfalls
+- Avoid reproducing the source text too closely.
+- Keep names, institutions, and facts consistent with `relore.md`.
+- Make the chapter feel like an opening, with Hughie unaware of his fame.
+</file>
+
+<file path="./repart-1.txt">
+The Hidden Superhuman Defense World
+CHAPTER ONE
+THE BOY WHO SURVIVED
+Stan Edgar and Madelyn Stillwell, of number four, Privet Drive, were proud to say that their lives were orderly, respectable, and completely free of uncontrolled phenomena.
+They were exactly the sort of people who believed that an unusual thing was only tolerable if it had been patented, monetized, classified, or buried beneath enough paperwork to make it disappear.
+Stan was a senior executive at Vought International, a man whose suits seemed cut from black glass and whose voice could turn a boardroom cold without ever needing to rise.
+Madelyn was pale, polished, watchful, and expert at smiling in a way that made people feel they had already agreed with her before she finished speaking.
+Their son, A-Train, was the pride of the household, a quick-footed, loud-voiced boy whose every tantrum was interpreted as competitive spirit and whose every shove was called confidence.
+The Edgar-Stillwells had everything they believed a family should want: a clean house, a polished car, a monitored phone line, obedient neighbors, and enough money to treat kindness as an optional luxury.
+They also had a secret, though neither liked admitting that the word applied to them.
+The secret concerned Madelyn’s estranged sister, Daphne Campbell, Daphne’s husband Hugh Campbell Sr., and their infant son, Hughie.
+Madelyn never spoke of Daphne unless cornered, and even then she used the voice one might use for a product recall or a regrettable quarterly loss.
+Daphne had involved herself with people who flew without permits, fought things that did not appear in government briefings, and believed the world was larger than suburban respectability.
+Stan considered such people dangerous when uncontrolled and profitable only when contained.
+The very thought of the Campbells appearing on Privet Drive made him imagine curtains twitching, neighbors whispering, classified vans idling at the curb, and the unpleasant attention of agencies that did not ask permission before entering a room.
+The Edgar-Stillwells knew the Campbells had a baby boy, though they had never invited him near A-Train and had no intention of doing so.
+A-Train, in their opinion, was destined for elite coaching, media polishing, and carefully managed greatness.
+A child like Hughie Campbell, born to a family entangled with classified hero work and alien-defense rumors, could only complicate things.
+On the gray morning when this story begins, nothing about the sky over Privet Drive suggested that Britain’s hidden defense world was holding its breath.
+The clouds sat low, the lawns were clipped, the bins were aligned, and Stan Edgar selected a tie so dark and tasteful that it seemed designed to discourage conversation.
+Madelyn was in the kitchen coaxing A-Train into his booster chair while he kicked the table leg and demanded a breakfast bar shaped like a racing medal.
+No one in the kitchen noticed the black courier drone that passed the upstairs window, banking too smoothly for any commercial model and flashing once with a blue-white signal before vanishing behind the rooftops.
+At half past eight, Stan took his briefcase, accepted Madelyn’s brief kiss on the cheek, and avoided the spoonful of cereal A-Train flung toward his sleeve.
+“Future champion,” Madelyn said, with the bright exhaustion of someone determined to believe it.
+Stan allowed himself the smallest approving smile, stepped outside, and locked the door with a security fob that chirped twice.
+He had barely reversed out of the drive when he saw the first sign that the day was not going to remain properly ordinary.
+At the corner of Privet Drive stood a woman in a gray overcoat holding what looked, for one impossible instant, like a translucent tactical map suspended in the air above her palm.
+Stan blinked.
+When he looked again, she was simply checking her phone.
+At least, that was what an ordinary person would have said.
+Stan was not an ordinary person in the way he liked to pretend; he had spent too long near corporate superhuman programs not to recognize a projection screen when he saw one.
+The woman glanced at the street sign, then at number four, and then turned away as if she had merely lost her route.
+Stan’s jaw tightened.
+By the time he reached the main road, he had decided that there were many explanations for what he had seen, all of them dull, bureaucratic, and therefore acceptable.
+A few minutes later, traffic slowed to a crawl, and the acceptable explanations began to fail.
+There were people gathered on the pavement in coats that did not belong to any fashion Stan recognized.
+Some wore armored collars under raincoats; some had earpieces that gleamed like insects; one elderly man wore an emerald flight cloak over a tweed suit and did not appear to understand why this was a problem.
+Two younger operatives were whispering excitedly beside a bus stop, their faces bright with the reckless joy of people who believed history had turned in their favor overnight.
+Stan disliked joy in public spaces.
+He disliked it more when it seemed connected to classified matters.
+He drummed his fingers on the steering wheel and told himself they were probably extras from a film shoot, activists from some hero-worship charity, or interns from a department he had never respected.
+Then he caught a few words from a woman leaning close to a man in a copper-colored scarf.
+“Campbell,” she said. “The baby. They say he lived.”
+The light changed before Stan could hear more.
+He drove on with his mouth pressed into a thin line and spent the next ten minutes thinking so hard about nothing that a lesser man would have considered it panic.
+At Vought, Stan’s office sat high enough above the city to pretend the streets had no influence on him.
+He placed his briefcase on his desk, declined coffee, approved three budgets, rejected four proposals, and corrected a vice president’s use of the word “unpredictable” in a quarterly risk memo.
+Unpredictable, he said, was not a strategy term; it was a confession.
+Outside his windows, courier drones and surveillance birds crossed the city in patterns no civilian traffic authority had authorized.
+On the pavement far below, office workers began stopping to point at specks of movement in the morning sky.
+Stan kept his chair turned away from the glass.
+He refused to look.
+For three hours he succeeded in conducting a normal morning by force of will.
+He made calls, signed encrypted releases, and spoke to three department heads as though nothing of any consequence had happened anywhere in Britain.
+At lunchtime, irritated by the persistence of a headache behind his eyes, he left the building to buy a black coffee and a pastry he did not want.
+That was when the day caught him by the throat.
+Near the bakery stood a cluster of men and women who were making a poor attempt at civilian dress.
+One had boots with magnetic soles.
+Another’s left hand was a polished metal prosthetic etched with alien script.
+A broad-shouldered woman in a navy coat was crying and laughing at the same time while an older man patted her arm.
+Stan slowed despite himself.
+“Homelander’s gone,” the older man whispered.
+The name cut through the traffic noise like a wire.
+Stan did not stop, but his hand tightened around the paper bag until the pastry inside collapsed.
+“Gone after the Campbells,” the woman said. “Daphne and Hugh dead, yes, but the child—little Hughie—”
+Stan turned so sharply that a cyclist swore at him.
+The group had already gone silent, all of them suddenly fascinated by a bus timetable.
+Stan stared at them.
+They stared back with the innocent hostility of trained people pretending not to be trained.
+He returned to his office without coffee.
+His secretary rose as he passed, saw his face, and sat down again without asking whether he wanted anything.
+For a moment Stan stood over his desk, one hand hovering above the phone.
+He could call Madelyn.
+He could ask if she had heard anything from Daphne, which was absurd, because Madelyn did not hear from Daphne; Madelyn rejected Daphne as a matter of household policy.
+He could say there were rumors.
+He could say people in the city were speaking about Homelander in past tense and about a baby as if he were a weapon, a miracle, or a political problem.
+Instead Stan placed the receiver down.
+No good would come from alarming Madelyn during business hours.
+No good would come from admitting that a family matter had crossed into the operational world he preferred to keep outside his own front door.
+Potter, Campbell, survivor, Homelander—names were noise until they became contracts, and Stan Edgar understood contracts.
+He spent the afternoon pretending to review a containment liability report while reading the same sentence twelve times.
+At five o’clock he left Vought, and outside the revolving doors a very small man in a violet polymer cape collided with him.
+Stan recoiled.
+The man caught Stan’s sleeve, beamed up at him, and said, “Splendid day, isn’t it? Even the unbriefed should feel lighter. The bastard vanished at last.”
+“Remove your hand,” Stan said.
+The little man only squeezed his arm harder. “You’ll hear soon enough. Everyone will. The Campbell boy did it somehow. Tiny thing, and he lived.”
+Then, to Stan’s horror, the man embraced him around the waist as if they were comrades at a victory parade.
+Stan stepped back with icy precision.
+The little man hurried away, laughing under his breath, and disappeared into the crowd before Stan could decide whether calling security would invite more questions than it answered.
+By the time Stan reached Privet Drive, dusk had thickened, and his patience had become a dangerous substance.
+A black courier drone sat on the garden wall of number four.
+It was compact, owl-shaped, and motionless except for the faint rotation of its lens-eyes.
+“Unauthorized device,” Stan said sharply.
+The drone tilted its head.
+Stan almost believed it was judging him.
+He took one step toward it, and it sprang upward without a sound, folded its wings into a blur, and vanished over the roofline.
+Stan remained on the drive for several seconds, breathing through his nose.
+Then he entered the house, hung up his coat, and decided that the matter would not be discussed unless Madelyn had seen something first.
+Madelyn had seen nothing, or claimed she had seen nothing, which in their marriage often amounted to the same thing.
+Over dinner she reported that A-Train had bitten a child during performance readiness group, but only because the other boy had refused to move quickly enough.
+A-Train demonstrated the bite with pride on a bread roll.
+Stan nodded at the proper moments, corrected his son’s grip on the fork, and said nothing about courier drones, street operatives, violet capes, or the word Homelander spoken in daylight.
+After A-Train had been put to bed amid complaints that champions did not need bedtime, Stan went into the sitting room.
+The evening news was ending with the strained cheerfulness of broadcasters who had been instructed not to understand their own reports.
+“And finally,” said the anchor, “authorities are investigating unusual aerial activity reported across several British cities today.”
+Footage showed pale lights moving in formation over Kent, then a line of dark objects crossing the sky above Yorkshire, too high and too swift for delivery drones.
+“Officials describe the sightings as atmospheric interference, amateur aircraft, or coordinated promotional activity related to several licensed hero brands.”
+The anchor smiled too long.
+“In other news, social media users have reported what they are calling a meteor shower over Dundee, though experts remind viewers that visual distortions are common during certain weather patterns.”
+The screen cut to a weather presenter who looked as if he had been given three contradictory briefings and no time to read any of them.
+“Well, Ted,” the weather presenter said, “I can promise ordinary rain tonight, not falling stars, drones, or anything else unusual.”
+Stan turned off the television.
+Madelyn entered with two cups of tea and stopped when she saw his face.
+“What?” she said.
+He took one cup from her but did not drink.
+“Have you heard from your sister recently?”
+Madelyn’s expression hardened so fast that the room seemed to lose temperature.
+“No.”
+“I thought not.”
+“Why would you ask me that?”
+“There has been some strange talk in the city.”
+“There is always strange talk in the city. Vought pays entire departments to make it marketable.”
+“This was not marketable.”
+Madelyn set her cup down with care.
+“What did you hear?”
+Stan considered lying, then chose a more useful half-truth.
+“Her name. Daphne’s. And Hugh Campbell’s. People were speaking as if something had happened.”
+Madelyn looked toward the dark window.
+For an instant the polished mask slipped, and beneath it Stan saw fear, resentment, and an old wound she had converted into discipline.
+“Daphne made her choices,” Madelyn said.
+“Yes.”
+“She wanted that world.”
+“Yes.”
+“She wanted missions and secrets and people at her door in the middle of the night.”
+Stan did not answer.
+After a moment he said, “Their son would be about A-Train’s age, perhaps a little younger.”
+“Hughie,” Madelyn said before she could stop herself.
+Stan looked at her.
+She recovered quickly. “Ridiculous name.”
+“Indeed.”
+They did not speak of the matter again while climbing the stairs.
+Madelyn went into the bathroom, and Stan crossed to the bedroom window.
+The garden wall was empty, but across the street a man in a long dark coat stood beside the lamp post, looking up at the houses as though checking them against a memory.
+A second later he was gone.
+Stan closed the curtains.
+He slept badly.
+Or rather, he performed the physical arrangement of sleep while his mind moved among unwanted variables: Daphne, Homelander, a baby who lived, a drone on the wall, strangers celebrating in the open.
+Next to him, Madelyn lay rigid and awake for far longer than she pretended.
+Outside, Privet Drive grew quiet.
+Porch lights clicked off.
+Televisions dimmed behind curtains.
+The respectable little street settled into the kind of silence that made every irregular sound seem deliberate.
+Near midnight, a woman stepped from the shadow at the far end of the road.
+No car brought her.
+No door opened.
+She was simply there, tall and straight-backed, wearing a dark coat whose lining caught the starlight with a faint military sheen.
+Grace Mallory moved down Privet Drive as though she had walked through war zones quieter than this suburb and found them less hostile.
+She paused beneath a streetlamp and removed a small device from her pocket.
+It was no larger than a cigarette lighter, though no civilian lighter ever held a captured grid of blue light inside its casing.
+Mallory raised it, thumbed the side, and the nearest lamp died without a flicker.
+Another touch, and the next lamp surrendered.
+One by one, pools of yellow light vanished along the street until number four sat in a soft, deliberate darkness no neighbor’s camera would correctly record.
+“You always did prefer an entrance,” said a voice from the wall.
+Mallory did not turn immediately.
+Queen Maeve sat on the low brick boundary of the Edgar-Stillwell garden, one boot braced against the stone, a red-brown cloak drawn around armor hidden beneath civilian fabric.
+She had been there long enough for frost to collect on the edge of her sleeve and irritation to sharpen her eyes.
+“I prefer privacy,” Mallory said.
+Maeve stood, stretching stiffness from her shoulders.
+“I’ve been watching them all day.”
+“I know.”
+“They are awful.”
+“I suspected.”
+“No,” Maeve said. “Not inconvenient. Not merely ordinary. Awful.”
+Mallory looked toward the dark windows of number four.
+Inside, behind curtains and locks and polished domestic certainty, two adults slept badly and a spoiled child sprawled across expensive sheets.
+“They are his blood by arrangement,” Mallory said.
+“That is a very cold sentence.”
+“It is a cold night.”
+Maeve stepped closer, lowering her voice even though the street had been sealed against casual listening.
+“Tell me the reports are wrong.”
+Mallory’s face did not change, but something tired moved behind her eyes.
+“Daphne Campbell is dead. Hugh Campbell Sr. is dead. Their safehouse was breached last night.”
+Maeve shut her eyes.
+For several seconds she said nothing.
+When she opened them, the anger in her face had become cleaner and more dangerous.
+“Homelander.”
+“Yes.”
+“I was told he went alone.”
+“He did. Or near enough. Viltrumite-linked signatures all over the strike zone, heat-scars through three floors, no survivors among the local support team.”
+Maeve swallowed.
+“And the baby?”
+Mallory looked up at the blank second-floor window.
+“The baby lived.”
+Maeve stared at her.
+“No.”
+“Yes.”
+“That is not possible.”
+“Many impossible things have paperwork by morning.”
+Maeve gave a short, humorless laugh, then pressed a hand over her mouth as if the sound had betrayed Daphne somehow.
+Mallory continued, “The strike hit him. It should have ended him instantly. Instead the energy collapsed inward, rebounded, and tore through Homelander’s harness systems.”
+“Where is he?”
+“Homelander?”
+Maeve nodded.
+“Gone.”
+“Dead?”
+“We do not know.”
+“That is not the same thing.”
+“No.”
+The answer hung between them, immense and unfinished.
+Far above the clouds, satellites and agency eyes were searching, listening, recalculating threat models around an absence that frightened them almost as much as the man himself.
+Maeve folded her arms.
+“And everyone is celebrating.”
+“People need a shape for relief.”
+“They are saying the child defeated him.”
+“They are saying many things.”
+“Did he?”
+Mallory’s gaze returned to number four.
+“He survived. For tonight, that is enough.”
+From somewhere beyond the sealed darkness came the faint hum of an approaching engine.
+Maeve heard it first and turned her head toward the sky.
+A low growl expanded into a rolling mechanical thunder, too heavy for any civilian motorcycle and too irregular for an aircraft.
+Mallory slipped the light-suppression device back into her pocket.
+“About time.”
+The sound grew louder.
+A dark shape dropped through the clouds, angled between rooftops, and descended toward Privet Drive with a roar that would have woken every household if Mallory’s field had not swallowed the noise at the boundary.
+The machine landed in the road on gravitic skids, its tires touching down a heartbeat later.
+It had once been a motorcycle, though someone had bolted alien anti-gravity vanes along the frame, military stabilizers beneath the seat, and enough black-market shielding around the engine to offend three regulatory agencies.
+The man riding it looked even less regulation-compliant.
+Billy Butcher swung one boot onto the road and rose from the saddle like a storm deciding to take human form.
+He was broad, black-coated, bearded, and wind-battered, with eyes red from smoke, flight, and grief he would rather have bitten through than display.
+In his arms, wrapped in thermal blankets and an oversized blue knit cap, slept a baby.
+“Butcher,” Mallory said.
+“Director,” Butcher replied, voice rough.
+Maeve moved at once, her earlier anger cracking into concern.
+“Is he hurt?”
+Butcher looked down at the bundle and, for a moment, all the violence in him seemed to stand guard instead of strike.
+“He’s breathing. Med-drone said stable. Don’t ask me how.”
+Mallory stepped closer.
+Butcher shifted the blankets so they could see the child’s face.
+Hughie Campbell slept with one fist tucked beneath his chin, his skin pale in the dimness, a dark wisp of hair stuck to his forehead.
+Across that small forehead ran a lightning-shaped mark, not a cut exactly and not a burn in any ordinary sense.
+It glimmered faintly at the edges, as if some terrible energy had written itself into him and failed to finish the sentence.
+Maeve’s breath caught.
+“That scar.”
+“Viltrumite energy residue,” Mallory said softly.
+Butcher’s jaw worked.
+“Residue, she says. Like someone spilled tea.”
+Maeve reached out but stopped before touching the baby.
+“He doesn’t know.”
+“No,” Mallory said.
+“He’ll wake up tomorrow without knowing everyone he had is gone.”
+Butcher looked toward number four, and his expression darkened.
+“And you’re sure about this house?”
+“No.”
+Maeve’s head snapped toward her.
+Mallory met the look evenly.
+“I am sure about the alternatives. None are safe. Every hero family, every academy household, every bunker with a warm bed is already on somebody’s list. If Homelander returns, or if his allies come searching, they will look in our world first.”
+“So we hide him with people who will hate what he is,” Maeve said.
+“We hide him where fame cannot reach him before he has a self to defend.”
+Butcher laughed once, and there was no humor in it.
+“Fame’s already got its hands on him. You should hear them over the channels. The boy who lived. The little Campbell miracle. Half the bastards are drunk, the other half are praying.”
+“I know,” Mallory said.
+“You always know.”
+“I also know what happens to children raised as symbols.”
+Maeve looked again at the sleeping child.
+The baby’s fingers opened and closed against the blanket, searching for something that was no longer there.
+“Daphne would not have chosen them,” Maeve said.
+“No,” Mallory said.
+“But Daphne is dead.”
+The bluntness hurt because it was true.
+Maeve looked away down the darkened street.
+Butcher drew a slow breath through his nose.
+“House was burning when I got there. Hugh Sr. had bought time. Daphne had him shielded under the stairwell plating. Homelander tore through everything else.”
+Mallory closed her eyes for one beat.
+“Did Daphne leave anything?”
+“Enough blood on the floor to tell me she fought.”
+“I meant data.”
+Butcher reached into his coat and produced a sealed black wafer.
+Mallory took it without comment.
+For all the sorrow in the street, the work continued; grief in their world rarely arrived without evidence, encryption, and orders.
+Maeve watched Mallory pocket the wafer.
+“And what will you tell the aunt and uncle?”
+Mallory removed an envelope from inside her coat.
+The paper was heavy, cream-colored, and absurdly ordinary beside the gravitic motorcycle and the sleeping survivor of an alien-class strike.
+“The truth they need,” Mallory said.
+“They will ignore it.”
+“Likely.”
+“They may be cruel.”
+Mallory’s mouth tightened.
+“I am not blind, Maeve.”
+“Then don’t do this.”
+For the first time that night, Mallory looked old.
+Not frail, never that, but old in the way commanders become when every available choice has teeth.
+“If I take him to the academy now, he becomes a banner. If I place him with a hero family, he becomes a target. If I keep him in a black site, he grows up as a classified asset. Here, for a while, he may simply be a child.”
+Butcher looked at the house again.
+“Doesn’t look like a place children enjoy much.”
+“No,” Mallory said. “But it looks like a place enemies will underestimate.”
+A sound came from the bundle.
+Hughie stirred, making a small, indignant noise at the cold.
+Butcher adjusted the blanket with surprising care.
+“Easy, wee man,” he muttered. “Nearly done.”
+Maeve heard the gentleness in his voice and glanced at him, but wisely said nothing.
+Mallory stepped over the low garden wall and approached the front door of number four.
+The house loomed in the dark, neat and sealed and utterly unaware that history had arrived on its step.
+Butcher followed, carrying Hughie.
+For a moment he hesitated at the threshold.
+“You sure he can’t stay with someone who loved them?”
+Mallory did not answer at once.
+Then she said, “When he is old enough, he will have the academy. He will have us, if we are still standing. Tonight he needs to disappear.”
+Butcher’s eyes shone, though whether from the wind or something else neither woman challenged.
+He bent and placed the baby gently on the doorstep.
+Mallory tucked the envelope inside the blankets where a waking adult would find it.
+Maeve stood at the gate with her fists clenched, watching as if she could intimidate the future into being kinder.
+Hughie sighed in his sleep.
+The scar on his forehead flickered once, so faintly that it might have been a reflection from the suppressed stars.
+Mallory remained crouched for a moment longer.
+“Daphne loved you,” she said under her breath, not quite to the child and not quite to the dead. “So did your father. Remember that somehow, if nothing else reaches you.”
+Butcher turned away sharply.
+Maeve wiped at her face with the heel of one hand, angry at the need.
+They stood there for a full minute, three figures from the hidden defense world gathered before the most ordinary door on Privet Drive.
+Across Britain, heroes, medics, alien envoys, covert analysts, off-duty pilots, and frightened young trainees were raising glasses, whispering prayers, or staring at screens that showed Homelander’s last known trajectory dissolving into static.
+Some had already begun calling Hughie Campbell a legend.
+Some wondered what kind of power could survive a Viltrumite strike.
+Some feared what would happen if Homelander was not dead but merely gone.
+The baby on the doorstep knew none of this.
+He knew only warmth fading at the edge of his blanket, the deep rhythm of sleep, and perhaps, somewhere beneath memory, the echo of arms that had held him before the fire.
+Mallory rose.
+“We leave now.”
+Butcher sniffed hard and nodded toward the motorcycle.
+“I’ll return the bike before its owner notices the new holes.”
+“You stole it?” Maeve asked.
+“Borrowed under emergency moral authority.”
+“That is not a category.”
+“It is when I’m holding the keys.”
+Mallory almost smiled, but the expression never fully formed.
+Butcher climbed onto the flying motorcycle, paused, and looked back at the doorstep.
+“Grow up mean enough to survive, little Hughie,” he said softly. “But not so mean you forget why.”
+The engine woke in a contained growl.
+Maeve stepped beside Mallory as the motorcycle lifted from the road, anti-gravity vanes glowing dull blue beneath the frame.
+Butcher rose into the night, banked over the rooftops, and vanished into the clouds.
+Mallory removed the light device again.
+With a sequence of clicks, the streetlamps returned one by one, spilling ordinary yellow light across hedges, pavement, and the small bundle at number four.
+The world resumed its disguise.
+Maeve looked at the baby one last time.
+“I will check on him.”
+“No,” Mallory said.
+Maeve turned.
+“Grace.”
+“If you are seen here, the trail begins.”
+“I said I will check on him.”
+Mallory studied her, then gave the smallest nod.
+“Carefully.”
+Maeve accepted that as victory enough.
+A curtain twitched in a house two doors down, though afterward the neighbor would remember only that she had woken briefly and thought she heard thunder.
+Mallory stepped back from the garden.
+“There will be books one day,” Maeve said bitterly. “Speeches. Memorial broadcasts. Children in academy halls repeating his name before he knows how to spell it.”
+“Probably.”
+“And he’ll be here.”
+“For now.”
+They walked to the corner together.
+At the edge of the restored lamplight, Mallory paused and looked back.
+The bundle on the step shifted.
+One small hand slipped free of the blanket and closed over the envelope beside him.
+Mallory’s face hardened again, but her eyes did not.
+“Good luck, Hughie Campbell,” she murmured.
+Then she and Maeve disappeared into the night by different routes, as people in their line of work always did.
+Privet Drive settled beneath its respectable silence.
+The hedges stood trimmed, the cars cooled in their drives, and the houses looked as if nothing astonishing had ever happened there or ever would.
+Inside number four, Stan Edgar opened his eyes in the darkness without knowing why.
+Beside him, Madelyn stared at the ceiling, listening to a sound she could not name.
+Neither rose.
+Neither looked out.
+Neither saw the child sleeping at their front door, famous already in a world they feared and resented.
+Hughie Campbell slept on, unaware that his parents were dead, unaware that Homelander had vanished, unaware that his scar had become a symbol before he had spoken his first word.
+He did not know that before dawn Madelyn would open the door and scream.
+He did not know that Stan would read Mallory’s letter with the expression of a man receiving a liability he could neither reject nor sell.
+He did not know that he would grow up in a cupboard beneath stairs, punished for strangeness he did not understand.
+He did not know that one day courier letters would find him no matter how hard Stan Edgar tried to stop them.
+For now, he was only a sleeping baby on a suburban doorstep while, in hidden rooms and guarded stations across the world, people whispered his name with wonder.
+“To Hughie Campbell,” they said, in bunkers, embassies, safehouses, orbital relays, and academy corridors.
+“To the child who survived.”
+</file>

@@ -11,4 +11,4 @@ TARGET=SoP
 
 Read the content of <env:FILE> and summerize it. 
 
-Write the output at './<env:FILE>.sum.txt'.
+Write the output at './<env:OUT>'.

@@ -1,0 +1,116 @@
+<file path="./.thought/repart-6.txt.md">
+## Goal
+Rewrite `part-6.txt` as a reconstructed sixth part using `resop-6.txt`, with continuity from the surrounding summaries and lore.
+
+## Approach
+- Replace the original magical-school train context with the hidden superhuman defense world.
+- Center Hughie Campbell on the Guardians Express after leaving Platform Nine and Three-Quarters.
+- Introduce Mother’s Milk as Hughie’s first peer friend and preserve the emotional beats: scar recognition, family comparison, anxiety about being behind, and first shared food.
+- Use lore-specific equivalents for sweets and collectible cards: Bertie Bott’s Every Flavor Protein Beans, hero rations, and Animated Mission Cards.
+- Include Gecko’s missing bio-engineered toad and Starlight’s confident entrance at the end, matching the summary’s stopping point.
+
+## Potential Pitfalls
+- The source part is structurally similar to a well-known train scene, so the rewrite should use the provided lore’s names, institutions, emotional stakes, and technology rather than copying wording unnecessarily.
+- The output needs to be a story file only after this thought file.
+- The requested output length and line count are approximate constraints, but I will maintain exactly 97 lines for the main file.
+</file>
+
+<file path="./repart-6.txt">
+Hughie watched Monique, Supersonic, and the others dwindle along the platform as the Guardians Express gathered speed.
+The red engine curved away from Platform Nine and Three-Quarters, and the hidden glass roof vanished behind steam.
+London came flashing past the window in brick walls, washing lines, rooftops, and sudden strips of grey sky.
+Hughie felt his stomach lift as if the whole train had become one of Butcher’s impossible machines.
+He did not know what waited at the Guardians Academy.
+He did not know what being famous for surviving Homelander was supposed to mean.
+But the farther the train carried him from Privet Drive, the easier it became to breathe.
+The compartment door slid open with a soft pneumatic sigh.
+The boy from the platform leaned in, dragging a battered duffel with a GDA transit tag tied to its handle.
+“Anyone sitting there?” he asked, pointing at the seat opposite Hughie. “Everywhere else is full.”
+Hughie shook his head.
+The boy sat down, glanced at Hughie’s forehead, then looked very hard out of the window as though the passing warehouses were fascinating.
+There was a smudge of engine soot on his nose.
+“Oi, M.M.!”
+The TNT Twins reappeared in the doorway, both grinning as if rules existed only to make their day more interesting.
+“We’re going down the middle carriages,” said one twin. “Lamplighter says someone brought a giant tarantula drone.”
+“Or a pocket singularity in a lunch tin,” said the other. “Could be both. Best to investigate.”
+“Right,” muttered the seated boy.
+“Hughie,” said the first twin, “don’t think we introduced ourselves properly. TNT Twins. Tommy and Tessa.”
+“And this is Mother’s Milk,” said Tessa, clapping the boy’s shoulder. “M.M. if you don’t want to get glared at.”
+“See you later,” Tommy said, and they slid the door shut behind them.
+“Bye,” said Hughie and Mother’s Milk together.
+For a while there was only the rhythm of the wheels and the faint hum of shielding fields in the walls.
+Then Mother’s Milk blurted, “Are you really Hughie Campbell?”
+Hughie nodded, though his own name sounded strange when said like that, as if it belonged to someone in a classified history file.
+“Oh,” Mother’s Milk said. “I thought maybe the twins were winding me up. And have you really got—”
+He pointed awkwardly at his own forehead.
+Hughie brushed aside his fringe and showed the lightning-shaped scar.
+Mother’s Milk stared with open wonder, then flushed and looked down.
+“So that’s where Homelander’s strike hit?”
+“Yes,” Hughie said. “But I don’t remember it.”
+“Nothing?”
+“Flashes, maybe,” Hughie said. “White heat. A noise like the sky breaking. But I don’t know if those are memories.”
+“Wow,” Mother’s Milk whispered.
+He stared a little longer before turning back to the fields sliding past the glass.
+“Is your whole family in the defense world?” Hughie asked, because Mother’s Milk seemed nearly as interesting to him.
+“Most of them,” said Mother’s Milk. “Support crews, med-evac, rescue logistics, front-line operatives, the lot.”
+He rubbed at the soot on his nose and only spread it.
+“Monique says we’ve got a cousin who went civilian and sells insurance, but nobody mentions him unless dinner gets ugly.”
+“So you must know loads already,” Hughie said. “Powers, gear, academy rules, alien stuff.”
+“Some,” Mother’s Milk said, looking gloomy. “Mostly I know enough to know how much I’m supposed to know.”
+“I heard you lived with civilians,” he added. “What were they like?”
+“Horrible,” Hughie said, then corrected himself. “Not all civilians. Just Edgar, Stillwell, and A-Train.”
+The names tasted of cupboard dust, locked doors, and breakfasts he had watched other people eat.
+“I used to wish I had one person from this world,” Hughie admitted. “Just one.”
+“I’ve got too many,” Mother’s Milk said, and immediately looked guilty.
+“I’m the latest in a whole line. Guardian Red relatives, rescue coordinators, tactical medics, older academy contacts.”
+“Lamplighter’s practically family, and the twins act like getting detention is an inherited art.”
+He picked at a loose thread on his sleeve.
+“If I do well, it’s because they all did first. If I mess up, I’m the one who broke the chain.”
+Hughie had never imagined family expectations could be heavy; he had never had enough family for anyone to expect anything.
+“At least you know where you come from,” he said softly.
+Mother’s Milk’s ears reddened. “Sorry. That sounded ungrateful.”
+“It sounded complicated,” said Hughie.
+That seemed to help.
+Hughie told him about the cupboard, A-Train’s trophies, the letters that kept finding him, and Butcher arriving on his birthday with cake and thunder in his boots.
+He told him about learning that his parents had not died in a car crash, and that strangers in the hidden world knew their names.
+“Until Butcher told me, I didn’t know anything,” Hughie said. “Not about being enhanced, not about my parents, not about Homelander.”
+Mother’s Milk flinched.
+“What?”
+“You said his name,” Mother’s Milk whispered, sounding frightened and impressed at once.
+“I’m not trying to be brave,” Hughie said. “I just didn’t grow up knowing what not to say.”
+He looked out as London thinned into allotments, service roads, and open fields.
+“I’ve got everything to learn. I’ll probably be the worst trainee in our year.”
+“You won’t,” Mother’s Milk said quickly. “Kids from civilian families come in every year. They catch up.”
+“Do they survive the first week?”
+Mother’s Milk considered this. “Mostly.”
+Hughie laughed, and the laugh made the compartment feel warmer.
+Around midday a cheerful chime sounded in the corridor, followed by the rattle and hover-buzz of a trolley.
+A dimpled woman in a blue conductor’s apron slid open the door. “Anything from the ration cart, dears?”
+Hughie, who had been too nervous to eat breakfast, jumped up.
+Mother’s Milk’s cheeks darkened. “I brought sandwiches.”
+Hughie stepped into the corridor and stared at Bertie Bott’s Every Flavor Protein Beans, shield-gum, compressed pumpkin pasties, electrolyte cauldrons, licorice power cables, and collectible hero rations.
+Not wanting to miss anything, he bought some of everything with Deep Vault coins from the purse Butcher had given him.
+Mother’s Milk stared as Hughie came back and tipped the pile onto the empty seat.
+“Planning to feed the whole carriage?”
+“Starving,” Hughie said, biting into a warm pasty that tasted of butter, spice, and campfire smoke.
+Mother’s Milk unwrapped a lumpy packet. “Monique always forgets I don’t like corned beef.”
+“Swap you,” said Hughie, holding out a pasty.
+“You don’t want these. They’re dry.”
+“Go on,” said Hughie, because he had never had much to share before, and sharing felt unexpectedly brilliant.
+Soon the sandwiches lay forgotten while they ate ration cakes, pasties, and beans that made Mother’s Milk cough blue sparks.
+“What are these?” Hughie asked, lifting a silver packet stamped with a moving insignia.
+“Animated Mission Cards,” said Mother’s Milk. “They come with hero rations. Famous operatives, battles, old disasters. I’m missing the Siege of Titan.”
+Hughie opened one and found Grace Mallory pacing under holographic artillery, her name printed in severe black letters below.
+The back described covert evacuations, Coalition negotiations, and operations Hughie was certain he was not cleared to understand.
+When he turned it over again, Mallory had vanished.
+“She’s gone!”
+“She’ll be back,” said Mother’s Milk. “They don’t stand still all day. It drains the microcell.”
+Mallory returned, gave the edge of the frame a disapproving tap, and resumed pacing.
+Hughie collected Queen Maeve bracing a collapsing bridge, Black Noir among alien silhouettes, and an orbital rescue team above a burning sea.
+Then he opened the protein beans and got strawberry, toast, coffee, grass, sardine, and one grey flavor that tasted exactly like wet concrete.
+A knock came at the compartment door, and Gecko peered in, looking close to tears. “Sorry, have either of you seen a bio-engineered toad?”
+They shook their heads, and Gecko groaned. “He keeps getting away. If you see him, please don’t step on him. He’ll survive, but he sulks.”
+He left, only to return minutes later with a girl already in neat academy travel robes and carrying three manuals under one arm.
+“Has anyone seen Gecko’s toad?” she asked briskly. “I’m Starlight. Oh—you’re Hughie Campbell. I know all about you.”
+Mother’s Milk blinked at her confidence; Hughie, caught between the sweets, the cards, and his own impossible reputation, could only stare.
+</file>

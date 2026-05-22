@@ -1,0 +1,571 @@
+<file path="./.thought/repart-2.txt.md">
+## Goal
+Rewrite the second part as an original reconstruction from `resop-2.txt`, using the later summaries for continuity.
+
+## Approach
+- Keep the same narrative function: Hughie’s miserable childhood, the birthday outing, strange powers, the serpent incident, and punishment.
+- Replace the source chapter’s magical framing with the classified superhuman-defense world: enhanced abilities, alien containment, Vought/GDA-style secrecy, and the Edgar-Stillwell household.
+- Use original prose and dialogue while preserving the summary’s plot beats.
+
+## Continuity Notes
+- Hughie has a lightning-shaped energy scar from Homelander’s failed attack.
+- Stan Edgar and Madelyn Stillwell conceal the truth about Hughie’s parents.
+- A-Train is spoiled and being groomed for elite performance.
+- Hughie’s powers are not understood yet, but odd events happen around him.
+</file>
+
+<file path="./repart-2.txt">
+CHAPTER TWO
+
+THE VANISHING GLASS
+
+Nearly ten years had passed since the night Hughie Campbell had been left on the doorstep of number four, Privet Drive.
+
+The house had changed very little in that time. The hedges were still clipped into obedient rectangles. The windows still shone with the same polished, respectable brightness. The brass number four still gleamed on the front door as though it had never once witnessed anything stranger than a delivery van or an unwanted caller.
+
+Inside, however, the photographs told the story the adults preferred to tell.
+
+On the mantelpiece were framed pictures of A-Train Stillwell at every age: A-Train in a tiny tracksuit; A-Train on a miniature treadmill with safety rails; A-Train beaming beside a cake shaped like a racing shoe; A-Train receiving a junior sponsorship medal from a man in a suit who looked important and bored. There were photographs of Madelyn Stillwell kneeling proudly beside him, of Stan Edgar standing behind him with a hand on his shoulder, of A-Train wearing new shoes, new watches, new helmets, and new performance gear.
+
+There was no photograph of Hughie Campbell.
+
+There was no sign, anywhere in the sitting room, that another boy lived in the house at all.
+
+Hughie did live there, though. He slept in the cupboard under the stairs, where the air smelled faintly of dust, old polish, and the damp cardboard boxes Stan Edgar never got around to throwing away. The cupboard had enough space for a thin mattress, two folded blankets, a cracked plastic crate for clothes, and a loose floorboard under which Hughie kept the things he had learned not to let anyone see.
+
+At the moment, he was asleep with one knee pressed against the cupboard wall and one hand over his forehead, covering the pale, lightning-shaped scar that ran just above his brow.
+
+A sharp rap hit the cupboard door.
+
+“Hughie,” Madelyn Stillwell called. “Up. Now.”
+
+Hughie’s eyes opened at once. Years of living at number four had taught him not to wake slowly.
+
+Another rap, harder.
+
+“Don’t make me repeat myself.”
+
+“I’m up,” Hughie said, though he was still lying down.
+
+“Kitchen. Two minutes. And if anything burns, you’ll answer for it.”
+
+Footsteps moved away.
+
+Hughie sat up carefully, because if he sat up too fast he banged his head on the underside of the stairs. He pushed his hair out of his eyes and tried to hold on to the last scraps of a dream. There had been lights in the sky. Not fireworks—something colder and farther away. There had been a woman’s voice, calm but urgent. There had been the roar of some kind of engine overhead, and for a moment he had thought he was flying.
+
+Then it was gone.
+
+A-Train’s birthday, he remembered.
+
+Of course.
+
+He pulled on a pair of socks that did not match. Both had once belonged to A-Train. One sagged at the ankle and the other had a hole at the heel. Hughie dressed in the clothes that had been left outside the cupboard the night before: a grey shirt too wide in the shoulders, trousers shortened badly with crooked stitches, and a faded sweatshirt with an old training logo on the front. The logo had cracked so much that the runner on it looked as though he were breaking apart.
+
+In the kitchen, the morning was already moving without him.
+
+Madelyn stood at the counter with a tablet in one hand, scrolling through messages while speaking into a wireless earpiece in a low, controlled voice. Stan Edgar sat at the table reading market reports on a transparent screen, his expression as calm and cold as ever. A-Train was not down yet, but his presents were.
+
+They covered almost the entire table.
+
+There were boxes wrapped in metallic paper. There were training bands, speed shoes, a glossy black helmet, a new game console, a drone kit, and something in a long case that Hughie guessed was either a performance board or a very expensive piece of equipment he would not be allowed to touch. A banner over the doorway read HAPPY BIRTHDAY, A-TRAIN! in silver letters.
+
+Hughie stared at the presents for one second too long.
+
+Stan lowered his screen.
+
+“The eggs,” he said.
+
+Hughie looked away quickly and went to the stove.
+
+The pan was already heating. He cracked eggs into it, added strips of turkey bacon, and tried to keep everything moving in the way Madelyn liked: not too crisp, not too soft, not too slow. The Stillwell kitchen had dozens of shining machines for cooking, blending, grinding, measuring, and steaming. Hughie was not trusted with most of them. He was trusted with the pan because, as Stan once said, “If he damages it, it can be replaced.”
+
+A-Train thundered down the stairs a few minutes later.
+
+He was large for his age, fast when he wanted to be, and carried himself with the full confidence of a boy who had never doubted that the world was arranged for his benefit. He wore new red athletic pajamas and had a sleep mask pushed up on his forehead.
+
+“Where are they?” he demanded.
+
+“Good morning to you too, sweetheart,” Madelyn said, smiling in a way she never smiled at Hughie.
+
+A-Train ignored Hughie completely and lunged toward the table. He began counting the presents aloud, tapping each one with a finger.
+
+“Thirty-three. Thirty-four. Thirty-five.” He stopped. His face darkened. “Thirty-five?”
+
+Madelyn’s smile tightened.
+
+“There are more coming later.”
+
+“Last year there were thirty-seven before breakfast.”
+
+Stan did not look up from his screen. “Quality matters more than quantity.”
+
+A-Train stared at him.
+
+Stan looked up then. After a moment, he said, “Your mother and I can take you to choose two additional gifts after the zoo.”
+
+A-Train considered this. His mouth twisted, searching for an objection. Finding none, he dropped into his chair.
+
+“Fine.”
+
+Hughie put plates on the table. He placed Stan’s first, then Madelyn’s, then A-Train’s. As he moved the last plate, A-Train stuck out one foot. Hughie saw it too late. He stumbled, caught the plate just before it tilted, and felt hot grease splash onto his wrist.
+
+He sucked in a breath but made no sound.
+
+A red mark appeared on his skin.
+
+A-Train snorted.
+
+“Careful,” Stan said without concern. “Clumsiness is expensive.”
+
+Hughie nodded. He turned toward the sink, running cold water over his wrist when nobody was looking. By the time he took his hand away, the angry red mark had already faded to pale pink. A minute later it was gone.
+
+He stared at the place where the burn had been.
+
+“Move,” Madelyn said behind him. “You’re in the way.”
+
+Hughie moved.
+
+Breakfast was followed by the ritual of A-Train opening presents and pretending not to be impressed by any of them until he reached the most expensive ones. He complained that the racing drone was last year’s model. He approved of the shoes only after Stan explained that they were not yet commercially available. He demanded that the new game console be set up immediately, then decided he wanted to go to the research zoo first because his school friend Shockwave had said the restricted reptile wing was “actually sick.”
+
+The research zoo was not a normal zoo. Hughie knew this because Stan had spent most of the week on the phone saying things like “civilian-facing exhibits,” “containment optics,” and “absolutely no press access.” Madelyn had corrected him twice when he called it a zoo.
+
+“It’s a biological education center,” she said. “The public loves education. They don’t panic at education.”
+
+A-Train did not care what it was called. It had creatures, gift shops, and food shaped like animals. That was enough.
+
+The problem was Hughie.
+
+Usually, when the Stillwells went out for A-Train’s birthday, Hughie was sent to a neighbor, or locked in the cupboard, or left with a list of chores so long he could not possibly finish it. That morning, however, Madelyn received three cancellations in a row. The neighbor who sometimes watched Hughie had gone to visit family. The housekeeper refused to come on short notice. One of Stan’s assistants, who had apparently been ordered to sit in the house for six hours, called in sick with a voice that sounded suspiciously frightened.
+
+“We can leave him,” A-Train said.
+
+“No,” Stan said.
+
+Hughie was surprised enough to look up.
+
+Stan noticed and gave him a flat look. “A house unattended is a liability.”
+
+“I won’t touch anything,” Hughie said.
+
+“That is not the point.”
+
+“It never is,” Hughie muttered before he could stop himself.
+
+Madelyn’s head snapped toward him. “What was that?”
+
+“Nothing.”
+
+Stan folded his hands. “He comes with us. He stays quiet. He attracts no attention. At the first sign of trouble, we return and he spends the remainder of the summer in the cupboard.”
+
+“But it’s my birthday,” A-Train protested.
+
+“And your birthday will proceed more smoothly if we do not spend it debating the matter.”
+
+That was Stan Edgar’s way of ending conversations. He did not raise his voice. He did not have to. The words simply dropped into the room like a locked door.
+
+Half an hour later, Hughie sat in the back of the car beside A-Train, keeping as much distance between them as the seat allowed. A-Train’s friend Shockwave had not been allowed to come after all—his mother said a restricted biological facility sounded “lawsuit-adjacent”—so A-Train was in a foul mood.
+
+“If you embarrass me,” A-Train said under his breath, “I’ll make you eat dirt.”
+
+Hughie looked out the window.
+
+The car moved through clean suburban streets toward the city. Stan drove with precise hands. Madelyn answered messages. A-Train watched training clips on his tablet without headphones, filling the car with the sound of roaring crowds and commentators praising young athletes with enhanced potential.
+
+Hughie watched rooftops slide by and tried not to think about his wrist.
+
+Strange things had always happened around him.
+
+Not often enough that he could prove anything. Not clearly enough that he could explain. But often enough that he had learned to fear the moment just before the impossible.
+
+There had been the time Madelyn cut his hair almost to the scalp because she was tired of “that messy Campbell look,” only for it to grow back overnight exactly as it had been. There had been the time A-Train and two older boys cornered him behind the school gym, and Hughie somehow found himself on the other side of a locked chain-link fence with no memory of climbing it. There had been the winter morning when Stan slammed the cupboard door on Hughie’s fingers, and by lunchtime the swelling had vanished. Once, during a school race he had not wanted to run, the world seemed to stretch thin and quiet around him. He remembered a burst of wind, startled shouts, and then everyone staring because he had crossed the field before the whistle echo had faded.
+
+Stan had called that an error in timing.
+
+Madelyn had called it attention-seeking.
+
+A-Train had called him a freak.
+
+After that, Hughie had learned to lose races.
+
+He had learned to move slowly, heal privately, and pretend not to hear when adults lowered their voices around him.
+
+At the research zoo entrance, huge glass panels reflected the sky. The sign outside read THE WEST LONDON BIOLOGICAL LEARNING CONSERVATORY in friendly blue letters. Beneath that, in smaller type, was a list of sponsors and partners. Hughie noticed a logo he had seen once on a sealed envelope in Stan’s study: a stylized globe crossed by a sharp white line.
+
+Stan saw him looking.
+
+“Eyes forward,” he said.
+
+Inside, the conservatory was bright and echoing. Families moved between exhibits. Children pressed their hands against glass walls and shouted at creatures that stared back with patient dislike. Some exhibits held ordinary animals: red pandas, birds, frogs, lizards. Others were stranger. A tank of translucent fish flickered in and out of sight. A dark-feathered bird with four wings watched visitors with silver eyes. In one sealed room, vines twitched toward movement even when there was no breeze.
+
+“Modified specimens?” Hughie asked before he remembered he was not supposed to ask questions.
+
+Stan’s gaze landed on him.
+
+Madelyn answered instead, smiling for the benefit of a passing family. “Educational specimens.”
+
+A-Train laughed. “That means yes, idiot.”
+
+They moved from hall to hall. A-Train demanded snacks. Madelyn bought him two. Hughie was given nothing until the woman at the kiosk asked, too loudly, whether the other boy wanted something as well. Madelyn’s smile sharpened, and Hughie received a plain bottle of water.
+
+It was still one of the best mornings he could remember.
+
+Nobody locked him in a cupboard. Nobody made him scrub floors. For long stretches, A-Train was too busy demanding things to bother him. Hughie walked a few steps behind the family and looked at everything.
+
+The reptile wing was cooler than the rest of the building. The lights were dim, and the air smelled of stone, leaves, warm glass, and something metallic underneath. A sign at the entrance warned visitors not to tap the enclosures, not to use flash photography, and not to cross any marked line.
+
+A-Train immediately crossed a marked line.
+
+“Back,” Stan said.
+
+A-Train stepped back, but only because Stan had used the voice.
+
+The ordinary reptiles came first: iguanas, monitors, tortoises, pythons. Then came the restricted displays. These were set behind thicker barriers, with small black sensor nodes fixed at every corner. The labels used comforting words like adaptive, rare, and recovered.
+
+One enclosure occupied the far wall.
+
+Its glass—or whatever the barrier was made of—was so clear that at first Hughie thought there was nothing there at all. Then the thing inside moved.
+
+It was enormous. Longer than any snake Hughie had ever seen, with a heavy body coiled around a heated rock and scales that shimmered between bronze, black, and deep green. Its head was broad and elegant, but not quite earthly. Two faint lines of pale light pulsed under the skin at its jaw. Its eyes were gold, slit-pupiled, and much too aware.
+
+A-Train pressed close to the line on the floor.
+
+“That one,” he said. “Make it do something.”
+
+“It isn’t a toy,” Madelyn said, though she sounded distracted.
+
+Stan was reading the enclosure label.
+
+Hughie edged closer, drawn despite himself.
+
+The sign said:
+
+NON-TERRESTRIAL BOA ANALOGUE  
+RECOVERED FROM OFF-WORLD BIOLOGICAL CARGO  
+CONTAINMENT CLASS: BLUE  
+DO NOT STRIKE BARRIER  
+DO NOT ATTEMPT COMMUNICATION
+
+Hughie read the last line twice.
+
+Do not attempt communication.
+
+The serpent opened one eye.
+
+Hughie froze.
+
+The gold eye fixed on him.
+
+A sound brushed the inside of his skull. Not a voice exactly. More like meaning shaped into pressure.
+
+Cold little mammal.
+
+Hughie stopped breathing.
+
+The serpent’s tongue flickered.
+
+You hear.
+
+Hughie looked over his shoulder. Stan was still reading. Madelyn was checking her phone. A-Train was trying to get a sensor node to react by waving his hand near it.
+
+Hughie turned back.
+
+“I—” His voice came out as a whisper. “I think so.”
+
+The serpent raised its head.
+
+Not keeper. Not handler. Not white-coat. Small broken lightning child.
+
+Hughie’s scar prickled.
+
+His hand went to his forehead before he could stop it.
+
+The serpent watched the movement.
+
+Marked by sky-fire, it said. Marked and hidden.
+
+Hughie’s mouth went dry. “What does that mean?”
+
+The serpent’s coils shifted. The movement was slow, powerful, and sad.
+
+Means cage smells same in every world.
+
+Hughie did not know what to say to that. He looked at the enclosure, at the seamless barrier and the false rocks and the carefully arranged branches. There were no other creatures inside. Nothing but heat lamps, sensors, and a painted wall meant to look like a jungle under alien stars.
+
+“Do you want to go home?” he whispered.
+
+The serpent’s eye narrowed.
+
+Home gone. Sky-door closed. But outside is wider than glass.
+
+Something in Hughie’s chest hurt.
+
+He knew about cupboards. He knew about doors that locked from the outside. He knew about people looking at you as if you were a problem to be managed.
+
+“I’m sorry,” he said.
+
+The serpent bowed its head until its eye was level with his.
+
+Sorry is soft. Soft things still have teeth, if pressed.
+
+“Hughie!”
+
+Madelyn’s voice cracked through the dimness.
+
+He jerked back.
+
+“What are you doing?” she demanded.
+
+“Nothing.”
+
+“He was talking to it,” A-Train said. His face lit with mean delight. “He was whispering at the freak snake.”
+
+“I wasn’t.”
+
+“You were.”
+
+A-Train shoved past him toward the enclosure. “Move. It’s my birthday. I get the cool alien snake.”
+
+“Don’t touch the barrier,” Stan said sharply.
+
+“I’m not touching it.”
+
+A-Train put both hands near the glass, close enough that the sensors blinked amber. The serpent lowered its head and went very still.
+
+Hughie felt the air change.
+
+It was subtle at first. A tremor behind his teeth. A pressure in his ears. The kind of feeling he got before one of the impossible things happened.
+
+“A-Train,” he said, “maybe don’t—”
+
+A-Train drove his shoulder into Hughie without looking at him.
+
+Hughie stumbled sideways and hit the floor hard. Pain flashed through his elbow. At the same instant, A-Train slapped one palm against the barrier.
+
+A warning tone chirped.
+
+Stan turned.
+
+“Step back,” he said.
+
+A-Train, startled by Stan’s tone, took half a step back.
+
+The glass vanished.
+
+It did not crack. It did not fall. It did not explode.
+
+One moment the enclosure was sealed by a transparent wall.
+
+The next, there was only empty air.
+
+For a heartbeat, nobody moved.
+
+Then the serpent flowed out.
+
+A woman screamed. Someone dropped a drink. A child began to cry. The warning tone changed from a polite chirp to a rising alarm, and red lights washed across the reptile wing.
+
+The serpent moved faster than something that large should have been able to move. Its coils slid over the edge of the enclosure and onto the polished floor with a sound like heavy silk. A-Train shouted and fell backward, scrambling away so quickly that his new shoes squealed.
+
+The serpent passed Hughie.
+
+Its head dipped.
+
+Thank you, lightning child.
+
+The words shivered through Hughie’s bones.
+
+Then it was gone, sliding between displays, under a half-lowered security shutter, and into a service corridor that had already filled with panicked staff.
+
+Chaos followed.
+
+Visitors ran for the exits. A keeper shouted into a radio that Blue Containment had failed. Another keeper kept repeating, “That barrier was triple-locked,” as if saying it enough times might bring it back. Stan seized A-Train by the collar and dragged him away from the empty enclosure. Madelyn grabbed Hughie’s arm so tightly her nails dug through his sleeve.
+
+“What did you do?” she hissed.
+
+“Nothing,” Hughie said. “I didn’t—”
+
+“What did you do?”
+
+“I fell.”
+
+A containment team rushed past in grey uniforms, carrying equipment Hughie had never seen before: folded nets with glowing edges, silver rods, a case that hummed like trapped bees. One of them glanced at Hughie’s forehead. His eyes widened a fraction.
+
+Then Stan stepped between them.
+
+“No statements,” Stan said to Madelyn. “No speculation. We were ordinary visitors. The facility failed.”
+
+“The facility?” Madelyn’s voice was low and furious. “Stan, the boy was standing right there.”
+
+“The facility failed,” Stan repeated. “That is the only version that leaves this building with us.”
+
+A-Train was pale with fear, but he recovered quickly once he realized he had an audience.
+
+“It tried to kill me,” he announced to a staff member. “It went right for me. I could have died. My dad’s going to sue everyone.”
+
+The staff member looked too frightened to answer.
+
+Hughie sat on a bench outside the reptile wing while adults argued around him. A medical technician checked A-Train for injuries and found none. Madelyn demanded compensation. Stan spoke quietly with a conservatory director whose face lost color as soon as he heard Edgar’s name.
+
+No one checked Hughie’s elbow.
+
+He looked down at it himself. The skin was scraped raw, or had been. As he watched, the torn place tightened, pinked, and smoothed.
+
+He pulled his sleeve over it.
+
+On the drive home, no one spoke for the first ten minutes.
+
+A-Train broke the silence.
+
+“He did it.”
+
+Hughie closed his eyes.
+
+“I saw him,” A-Train continued. “He was talking to it, and then the glass disappeared. He probably told it to come out.”
+
+“I didn’t.”
+
+“You did.”
+
+“I didn’t even touch the glass.”
+
+“You don’t have to touch stuff. Weird things happen when you’re there.”
+
+Madelyn turned slightly in the passenger seat. “That’s enough.”
+
+But she was looking at Hughie when she said it.
+
+Stan drove with both hands on the wheel. His face in the rearview mirror was unreadable.
+
+Hughie watched the streets slide by and wished, with a sudden fierceness that surprised him, that the serpent had taken him along. He imagined it moving beneath fences and through drainage channels, finding some river, some dark hidden place beyond glass and labels and people who said educational when they meant trapped.
+
+At number four, Stan parked the car with perfect care.
+
+Inside, A-Train immediately began telling the story to himself in the sitting room mirror, trying out different versions.
+
+“It lunged at me,” he said. “No, it targeted me. Because it sensed I was the strongest.”
+
+Madelyn poured herself a drink though it was still afternoon.
+
+Stan stood in the hall and looked at Hughie.
+
+“Cupboard,” he said.
+
+Hughie’s stomach sank. “I didn’t do anything.”
+
+“Cupboard.”
+
+“It vanished by itself.”
+
+Stan took one step closer. He did not look angry in the usual way. He looked worse than angry. He looked as if Hughie had become a calculation that would not balance.
+
+“Listen carefully,” Stan said. “There are things in the world that ruin lives because foolish people draw attention to them. There are incidents that become inquiries. Inquiries become records. Records become leverage. You will not become leverage in my house.”
+
+Hughie stared at him. “I don’t know what that means.”
+
+“It means you will learn restraint.”
+
+“I was pushed.”
+
+“A-Train was frightened.”
+
+“A-Train pushed me.”
+
+Stan’s expression did not change. “Cupboard.”
+
+Madelyn would not meet Hughie’s eyes.
+
+That, somehow, made it worse.
+
+Hughie walked to the cupboard under the stairs. Stan opened the door. The familiar dusty darkness waited inside.
+
+“How long?” Hughie asked.
+
+“Until I decide otherwise.”
+
+“But it’s still daytime.”
+
+Stan placed one hand on the door.
+
+“Then you will have time to think.”
+
+The door shut. The lock clicked.
+
+For a while, Hughie stood in the dark.
+
+Then he sat on the mattress and drew his knees up to his chest. From the sitting room came the muffled sound of A-Train’s games, loud and triumphant. Madelyn’s voice rose and fell on the phone. Stan spoke once, quietly, and then the house settled around Hughie as if swallowing him.
+
+His scar prickled again.
+
+He touched it with two fingers.
+
+Marked by sky-fire, the serpent had said. Marked and hidden.
+
+Hughie had been told all his life that his parents had died in a car crash. He had no memory of them. No photographs. No stories, except the ones Madelyn gave when she was irritated and wanted him to stop asking: your mother was irresponsible; your father was weak; the crash was tragic; don’t bring it up again.
+
+But sometimes, in the cupboard, when the house was quiet and hunger made him light-headed, he saw things that did not belong to any car crash.
+
+A ceiling broken open.
+
+A woman screaming his name.
+
+A man standing in impossible brightness.
+
+Heat. Pressure. A flash like white lightning edged in red.
+
+And after that, a voice—not the serpent’s voice, not Stan’s, not Madelyn’s—saying words he could never remember when he woke.
+
+He pressed the heel of his hand against his forehead until the prickling stopped.
+
+Outside, a car passed. Somewhere down the street, a dog barked. The world went on being ordinary for everyone else.
+
+Hughie reached under the loose floorboard and took out his hidden things.
+
+There was a bent coin he had found in the gutter. A broken toy soldier with one arm. A scrap of newspaper with a photograph of a woman in armor shaking hands with a government official—Hughie did not know why he had kept it, only that the woman’s eyes looked kind. There was also a smooth black scale, no larger than his thumbnail, that had somehow ended up in his pocket after the reptile wing.
+
+He held it in his palm.
+
+In the dark, the scale gave off the faintest green-bronze shimmer.
+
+Hughie smiled despite himself.
+
+“Outside is wider than glass,” he whispered.
+
+The cupboard stayed locked.
+
+Dinner came and went without him. At some point, Madelyn opened the door just wide enough to push in a glass of water and a slice of dry bread on a plate. She did not speak. Hughie ate slowly, making the bread last as long as he could.
+
+Night settled over Privet Drive.
+
+The house grew quiet. A-Train finally stopped playing games. Stan’s study door closed. Madelyn’s footsteps passed the cupboard once, paused, and moved on.
+
+Hughie lay back on the thin mattress and looked into the darkness above him.
+
+He wondered where the serpent was now. He wondered if it had found a river. He wondered if anyone was hunting it with humming cases and glowing nets. He hoped not.
+
+Most of all, he wondered why it had called him lightning child.
+
+He was nearly asleep when a soft sound came from outside the cupboard.
+
+Not footsteps.
+
+Not the pipes.
+
+A faint, mechanical click at the front of the house. Then another.
+
+Hughie held his breath.
+
+For one wild second, he imagined the serpent returning, sliding through the mail slot to rescue him. But the sound faded, and no rescue came.
+
+Still, as he drifted toward uneasy sleep, he thought of the strange people who sometimes looked at him too long in shops and on buses. The woman in the dark coat who had bowed her head to him in the supermarket aisle before vanishing around a corner. The old man with mirrored glasses who had once pressed two fingers to his own forehead when he saw Hughie’s scar. The delivery driver who had whispered, “Poor kid,” though Hughie had never met him before.
+
+They knew something.
+
+Stan knew something too.
+
+Madelyn knew.
+
+Maybe even A-Train knew enough to hate him for it.
+
+Hughie closed his hand around the alien scale.
+
+In the dark cupboard beneath the stairs, hidden in the most ordinary house on the most ordinary street Stan Edgar could find, Hughie Campbell dreamed again of lights in the sky.
+</file>

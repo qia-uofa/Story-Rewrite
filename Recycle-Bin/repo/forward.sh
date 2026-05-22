@@ -1,5 +1,5 @@
 ```env
-TARGET=Re-SoP
+TARGET=Re-Parts
 ```
 
-Your task is to transform the repository <env:SOURCE> to <env:TARGET> by generating files.
+cp Re-SoP/repo/resop-*.txt Re-Parts/repo/
